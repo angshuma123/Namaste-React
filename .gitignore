@@ -1,0 +1,17 @@
+/node_modules
+/dist
+.parcel_cache
+/*/**
+ * Header
+ * -Logo
+ * -Nav Items
+ * Body
+ *  -Search
+ *  -RestaurantContainer
+ *  -RestaurantCard
+ * Footer
+ *  -Copyrights
+ *  -Links
+ *  -Address
+ *  -Contacts
+ */
